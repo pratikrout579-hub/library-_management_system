@@ -1,0 +1,1 @@
+.actions { display:flex;gap:8px; }.table-title { display:flex;align-items:center;gap:8px; }.table-title b { display:block; }.table-title small { color:var(--muted);display:block; }
